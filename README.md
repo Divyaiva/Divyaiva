@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyaiva&label=Profile%20views&color=0e75b6&style=flat" alt="divyaiva" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Cyber security**
 
 - 📝 I regularly write articles on [https://medium.com/@divya.ad.14820](https://medium.com/@divya.ad.14820)
 
